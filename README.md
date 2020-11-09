@@ -5,7 +5,13 @@
 
 # Gameplay
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IENj1qvceec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ifdef::env-github[]
+image:https://img.youtube.com/vi/IENj1qvceec/maxresdefault.jpg[link=https://youtu.be/IENj1qvceec]
+endif::[]
+
+ifndef::env-github[]
+video::rAteGra5-xM[youtube]
+endif::[]
 
 
 
