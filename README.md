@@ -5,13 +5,8 @@
 
 # Gameplay
 
-ifdef::env-github[]
-image:https://img.youtube.com/vi/IENj1qvceec/maxresdefault.jpg[link=https://youtu.be/IENj1qvceec]
-endif::[]
+[![IMAGE ALT TEXT]https://img.youtube.com/vi/IENj1qvceec/maxresdefault.jpg)](https://youtu.be/IENj1qvceec)
 
-ifndef::env-github[]
-video::rAteGra5-xM[youtube]
-endif::[]
 
 
 
